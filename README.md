@@ -1,0 +1,16 @@
+# new-script-2
+https://developers.google.com/maps/documentation/elevation/start
+
+{
+   "results" : [
+      {
+         "elevation" : 1608.637939453125,
+         "location" : {
+            "lat" : 39.73915360,
+            "lng" : -104.98470340
+         },
+         "resolution" : 4.771975994110107
+      }
+   ],
+   "status" : "OK"
+}
